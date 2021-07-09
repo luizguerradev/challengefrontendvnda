@@ -1,0 +1,35 @@
+{
+  "name": "challengefrontendvnda",
+  "version": "1.0.0",
+  "description": "Projeto de aplicação para de frontend na VNDA \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C-\u001b[C\u001b[De\u001b[3~\u001b[3~\u001b[3~\u001b[3~nd na VNDA",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gulp": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luizguerradev/challengefrontendvnda.git"
+  },
+  "keywords": [
+    "FRONT-END",
+    "VNDA",
+    "TESTE",
+    "ALL-STAR"
+  ],
+  "author": "LUIZ GUERRA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luizguerradev/challengefrontendvnda/issues"
+  },
+  "homepage": "https://github.com/luizguerradev/challengefrontendvnda#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-minify": "^3.1.0",
+    "gulp-sass": "^5.0.0",
+    "node-sass": "^6.0.1"
+  }
+}
