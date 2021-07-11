@@ -48,7 +48,7 @@ Este projeto esta sobe a licença [MIT](./LICENSE).
 
 
 
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/68678813?v=4" width="200px;" alt=""/>
+ <img style=  src="https://avatars.githubusercontent.com/u/68678813?v=4" width="200px"; border-radius: "50px" alt=""/>
  <br />
  <sub><b>Luiz Guerra</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago/" title="Rocketseat">🚀</a>
  <br />
