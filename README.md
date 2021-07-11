@@ -48,10 +48,9 @@ Este projeto esta sobe a licença [MIT](./LICENSE).
 
 
 
- <img style=  src="https://avatars.githubusercontent.com/u/68678813?v=4" width="200px"; border-radius: "50px" alt=""/>
+ <img style=  src="https://avatars.githubusercontent.com/u/68678813?v=4" width="200px" border-radius: "50px" alt=""/>
  <br />
- <sub><b>Luiz Guerra</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago/" title="Rocketseat">🚀</a>
- <br />
+ <sub><b>Luiz Guerra</b></sub>
 
 [![Twitter Badge](https://img.shields.io/badge/-@LuizGuerrra-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/LuizGuerrra)](https://twitter.com/LuizGuerrra) [![Linkedin Badge](https://img.shields.io/badge/-Luiz_Guerra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-guerra//)](https://www.linkedin.com/in/luiz-guerra/) 
 [![Gmail Badge](https://img.shields.io/badge/-luizhc.guerra@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luizhc.guerra@gmail.com)](mailto:luizhc.guerra@gmail.com)
