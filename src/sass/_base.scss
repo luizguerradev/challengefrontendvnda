@@ -1,0 +1,88 @@
+$black: #000;
+$black-olive: #5E5E5E;
+$background-quick-silver: #99a3a2ff;
+$background-body: #9A9EC1;
+$background-text: #00878fff;
+$transparent-hover: #ffffff91;
+$white: #fff;
+
+* {
+  font-family: 'PT Sans', sans-serif;;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+}
+
+button.btn-send, input.email {
+  border-radius: 50px;
+  padding: 5px;
+}
+
+
+
+html {
+  overflow-x: hidden;
+}
+
+body {
+  background-color: $white;
+  overflow-x: hidden;
+}
+
+.overlay {
+  display: none;
+  position: absolute;
+  width: 100vw;
+  height: 1000%;
+  z-index: 1500;
+  background-color: #000;
+  opacity: 0.5;
+}
+
+.overlay.on {
+  display: inline;
+}
+
+a {
+  color: $black;
+}
+
+.container {
+  max-width: 1500px;
+  padding: 0 50px;
+  margin: 0 auto;
+
+  @media (max-width: 768px) {
+    padding: 0 20px;
+  }
+}
+
+.text-introduction {
+  max-width: 405px;
+
+  @media (max-width: 830px) {
+    max-width: 345px;
+  }
+
+  .title-introduction {
+    font-size: 220%;
+    margin: 25px 0;
+  }
+}
+
+@mixin box-insta() {
+  width: 360px;
+  height: 360px;
+  position: relative;
+}
+
+@mixin logo-insta() {
+  width: 50%;
+  height: 50%;
+  position: absolute;
+  top: 25%;
+  left: 25%;
+  opacity: 0.5;
+}
