@@ -11,17 +11,17 @@
 </p>
 
 ## Projeto realizado para vaga de frontend junior na empresa <a href="https://www.vnda.com.br/"> VNDA </a>
+<a href= "https://luizguerradev.github.io/challengefrontendvnda/dist/index.html"> 
+
+![Badge](https://img.shields.io/badge/Acessse_Clicando-Aqui-%237159c1?style=flat&logo=mouse)
+</a>
 
 ## 🎨 Layout
 
-O layout da aplicação está disponível no FIGMA :
-
-<a href="https://www.figma.com/file/aq66jgeCS4ojlYpcVDXCAN/Untitled?node-id=0%3A1"> 
-
-![Badge](https://img.shields.io/badge/Layout_figma--%237159c1?style=for-the-badge&logo=ghost)
+O layout da aplicação está disponível no <a href="https://www.figma.com/file/aq66jgeCS4ojlYpcVDXCAN/Untitled?node-id=0%3A1"> ![Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 </a>
 
-
+<hr>
 
 
 
