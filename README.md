@@ -31,10 +31,12 @@ O layout da aplicação está disponível no FIGMA :
 As seguintes ferramentas foram usadas na construção do projeto:
 
 [ <img src="./assets/html5.svg" alt="HTML5" width="50px"> ](https://www.w3schools.com/html/)
-[ <img src="./assets/gulp.svg" alt="HTML5" width="50px"> ](https://sass-lang.com/documentation/syntax)
-[ <img src="./assets/javascript.svg" alt="HTML5" width="50px"> ](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide)
-[ <img src="./assets/css3.svg" alt="HTML5" width="50px"> ](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[ <img src="./assets/npm.svg" alt="HTML5" width="50px"> ](https://www.npmjs.com/package/gulp)
+[ <img src="./assets/gulp.svg" alt="gulp" width="50px"> ](https://sass-lang.com/documentation/syntax)
+[ <img src="./assets/javascript.svg" alt="javascript" width="50px"> ](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide)
+[ <img src="./assets/css3.svg" alt="css3" width="50px"> ](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[ <img src="./assets/npm.svg" alt="npm" width="50px"> ](https://www.npmjs.com/package/gulp)
+[ <img src="./assets/sass.svg" alt="sass" width="50px"> ](https://www.npmjs.com/package/gulp)
+
 
 <hr>
 
